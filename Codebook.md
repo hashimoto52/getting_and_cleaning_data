@@ -15,10 +15,15 @@ r_analysis.r contains following procedure.
 ## Variables
 - Data for this assignment is motion data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) captureed by smartphone (Samsung Galaxy S II) on the waist of volunteers of the experiments. 
 
-- In this assignment, I am using 3 variables in the datasets "tidy1" and "tidy2".
+- In this assignment, I am using 3 variables in the dataset "tidy1".
 1. features_method : features's description used in original data
 2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 3. value : value recorded in the original data
+
+- And also using 3 variables in the dataset "tidy2".
+1. features_method : features's description used in original data (same as "tidy1")
+2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)(same as "tidy1")
+3. mean : mean value of "value" in "tidy1" ,for each activity and each feature_method.
 
 - You can see the original description of variables in the txt files in the zip file above.  
 
