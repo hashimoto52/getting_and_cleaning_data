@@ -4,7 +4,7 @@ This repo contains 3 files.
 - Codebook.md : It explains variables and summaries calculation of run_analysis.R.
 - run_analysis.R : R script.
 
-##Data for this assignment
+## Data for this assignment
 Data for this assignment is following.
 
 ### Souce 
