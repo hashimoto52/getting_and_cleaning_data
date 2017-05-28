@@ -1,5 +1,8 @@
 # Getting and Cleaning Data
-Peer-graded Assignment: Getting and Cleaning Data Course Project 
+Peer-graded Assignment: Getting and Cleaning Data Course Project
+
+Here are the data for this project:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 This script contains following procedure.
 1. Merges the training and the test sets to create one data set.
