@@ -1,5 +1,5 @@
 # Getting and Cleaning Data
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+Peer-graded Assignment: Getting and Cleaning Data Course Project 
 
 This script contains following procedure.
 1. Merges the training and the test sets to create one data set.
