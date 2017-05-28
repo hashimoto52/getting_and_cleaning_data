@@ -23,9 +23,12 @@ This script contains following procedure.
 
 - You can see the original description of variables in the txt files in the zip file above.  
 
-### Reference : http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+### Reference 
+http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
 
-### Souce : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+### Souce 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova, Genoa (I-16145), Italy. 
@@ -33,6 +36,7 @@ DITEN - Università degli Studi di Genova, Genoa (I-16145), Italy.
 Universitat Politècnica de Catalunya (BarcelonaTech). Vilanova i la Geltrú (08800), Spain
 activityrecognition '@' smartlab.ws
 
-### download date: 2017/05/13
+### download date
+ 2017/05/13
 
 
