@@ -4,6 +4,10 @@
 ##Here are the data for this project:
 ##https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ##
+
+library(dplyr)
+library(tidyr)
+
 #0,downloads data
 url_p <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 temp <- tempfile()
@@ -28,8 +32,8 @@ colnames(one_data)[1] <- c("activity_no") #changes 1st col name to "activity_no"
 one_data <- gather(one_data, feature_no, value, -activity_no) #changes all data to tidy data
 one_data[,2] <- as.numeric(one_data[,2])          #changes feature_no value's class to number from chr
 
-colnames(features) <- c("feature_no","features_method") #names col names of features data
-new_one_data <- inner_join(one_data,features,by="feature_no") #marges features and one_data
+colnames(featuresdata) <- c("feature_no","features_method") #names col names of features data
+new_one_data <- inner_join(one_data,featuresdata,by="feature_no") #marges features and one_data
 
 ##2,Extracts only the measurements on the mean and standard deviation 
 ##  for each measurement.
