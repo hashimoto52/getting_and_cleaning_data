@@ -12,7 +12,7 @@ r_analysis.r contains following procedure.
 4. Appropriately labels the data set with descriptive variable names. -> "tidy1" in the script
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. -> "tidy2" in the script
 
-## Code book
+## Variables
 - Data for this assignment is motion data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) captureed by smartphone (Samsung Galaxy S II) on the waist of volunteers of the experiments. 
 
 - In this assignment, I am using 3 variables in the datasets "tidy1" and "tidy2".
