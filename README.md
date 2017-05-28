@@ -1,30 +1,11 @@
 # Getting and Cleaning Data
-This README is Peer-graded Assignment of Getting and Cleaning Data in Coursera.
+This repo contains 3 files.
+- README.md : This file you are reading now. It explains files in this repo.
+- Codebook.md : It explains variables and summaries calculation of run_analysis.R.
+- run_analysis.R : R script.
 
-## Data
-Here are the data for this project:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-
-## Procedure
-This script contains following procedure.
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement.
-3. Uses descriptive activity names to name the activities in the data set.
-4. Appropriately labels the data set with descriptive variable names. -> "tidy1" in the script
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. -> "tidy2" in the script
-
-## Code book
-- Data for this assignment is motion data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) captureed by smartphone (Samsung Galaxy S II) on the waist of volunteers of the experiments. 
-
-- In this assignment, I am using 3 variables in the datasets "tidy1" and "tidy2".
-1. features_method : features's description used in original data
-2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-3. value : value recorded in the original data
-
-- You can see the original description of variables in the txt files in the zip file above.  
-
-### Reference 
-http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+##Data for this assignment
+Data for this assignment is following.
 
 ### Souce 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
