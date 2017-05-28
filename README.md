@@ -1,5 +1,5 @@
 # Getting and Cleaning Data
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+This README is Peer-graded Assignment of Getting and Cleaning Data in Coursera.
 
 ## Data
 Here are the data for this project:
