@@ -1,8 +1,9 @@
 # Getting and Cleaning Data
-This repo contains 3 files.
+This repo contains 4 files.
 - README.md : This file you are reading now. It explains files in this repo.
 - Codebook.md : It explains variables and summaries calculation of run_analysis.R.
 - run_analysis.R : R script.
+- tidy2.txt : output dataset. 
 
 ## Data for this assignment
 Data for this assignment is following.
