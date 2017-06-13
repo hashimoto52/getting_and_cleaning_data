@@ -18,6 +18,6 @@ Universitat Politècnica de Catalunya (BarcelonaTech). Vilanova i la Geltrú (08
 activityrecognition '@' smartlab.ws
 
 ### download date
- 2017/05/13
+ 2017/06/14
 
 
