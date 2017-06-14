@@ -15,7 +15,7 @@ run_analysis.R contains following procedure.
 ## Variables
 - Data for this assignment is motion data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) captureed by smartphone (Samsung Galaxy S II) on the waist of volunteers of the experiments. 
 
-- In this assignment, I am using  88variables in the dataset "tidy1_1".
+- In this assignment, I am using 88 variables in the dataset "tidy1_1".
 1. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 2. subject : subject's description used in original data
 3. columns from 3rd to 88th : extracted feature's description from original data (procedure 3) 
@@ -25,8 +25,8 @@ run_analysis.R contains following procedure.
 2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)(same as "tidy1_1")
 3. subject : subject's description used in original data
 
-4. (only in "tidy1_2") value : measured value.
-5. (only in "tidy2") mean : mean value of "value" in "tidy1_1" ,for each feature, activity and subject.
+4. (only in "tidy1_2") value : measured value. ("tidy1_1" and "tidy1_2" are same data, but the way of arranging is different.)
+5. (only in "tidy2") mean : mean value of "value" in "tidy1_2", for each feature, activity and subject.
 
 - You can see the original description of variables in the txt files in the zip file above.  
 
