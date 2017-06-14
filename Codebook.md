@@ -25,8 +25,8 @@ run_analysis.R contains following procedure.
 2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)(same as "tidy1_1")
 3. subject : subject's description used in original data
 
-4. (in "tidy1_1") value : measured value.
-4. (in "tidy2") mean : mean value of "value" in "tidy1_1" ,for each feature, activity and subject.
+4. (only in "tidy1_1") value : measured value.
+5. (only in "tidy2") mean : mean value of "value" in "tidy1_1" ,for each feature, activity and subject.
 
 - You can see the original description of variables in the txt files in the zip file above.  
 
