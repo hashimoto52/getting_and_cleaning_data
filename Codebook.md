@@ -21,7 +21,7 @@ run_analysis.R contains following procedure.
 3. columns from 3rd to 88th : extracted feature's description from original data (procedure 3) 
 
 - And also using 4 variables in the dataset "tidy1_1" and "tidy2".
-1. feature : features's description used in original data (same as "tidy1")
+1. feature : features's description used in original data
 2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)(same as "tidy1_1")
 3. subject : subject's description used in original data
 
