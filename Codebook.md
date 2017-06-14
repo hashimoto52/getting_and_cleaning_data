@@ -20,12 +20,12 @@ run_analysis.R contains following procedure.
 2. subject : subject's description used in original data
 3. columns from 3rd to 88th : extracted feature's description from original data (procedure 3) 
 
-- And also using 4 variables in the dataset "tidy1_1" and "tidy2".
+- And also using 4 variables in the dataset "tidy1_2" and "tidy2".
 1. feature : features's description used in original data
 2. activity : 6 activity's description used in original data (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)(same as "tidy1_1")
 3. subject : subject's description used in original data
 
-4. (only in "tidy1_1") value : measured value.
+4. (only in "tidy1_2") value : measured value.
 5. (only in "tidy2") mean : mean value of "value" in "tidy1_1" ,for each feature, activity and subject.
 
 - You can see the original description of variables in the txt files in the zip file above.  
